@@ -7,6 +7,8 @@ In this  project, I created nav links to make the website more accessible as wel
 
 ## Mock-Up
 
+[Github Link](https://github.com/NazKena/html_horesion)
+
 [Horesion](./assess/css/127.0.0.1_5500_02-Challenge_Develop_index.html (1).png)
 
 
