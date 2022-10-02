@@ -6,6 +6,8 @@ In this  project, I created nav links to make the website more accessible as wel
 
 This site is deployed here [here] (https://nazkena.github.io/html_horesion/)
 
+## Mock-Up
+
 The Github links 
 
 technologies:
