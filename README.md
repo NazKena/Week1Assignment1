@@ -8,9 +8,7 @@ This site is deployed here [here] (https://nazkena.github.io/html_horesion/)
 
 ## Mock-Up
 
-my site is here image.png
-
-(./assets/image/127.0.0.1_5500_02-Challenge_Develop_index/png)
+my site is [here](./assets/image/127.0.0.1_5500_02-Challenge_Develop_index/png)
 
 
 
