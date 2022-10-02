@@ -10,6 +10,8 @@ This site is deployed here [here] (https://nazkena.github.io/html_horesion/)
 
 my site is here image.png
 
+127.0.0.1_5500_02-Challenge_Develop_index
+
 
 
 The Github links 
