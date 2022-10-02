@@ -7,8 +7,8 @@ In this  project, I created nav links to make the website more accessible as wel
 
 ## Mock-Up
 
-[Horesion](./assets/css/image.png)
+[Horesion](http://127.0.0.1:5500/02-Challenge/Develop/index.html)
+
 
 ## Website Link
 
-[Website Link](http://127.0.0.1:5500/02-Challenge/Develop/index.html)
