@@ -12,6 +12,8 @@ In this  project, I created nav links to make the website more accessible as wel
 
 ## Website Screenshot and Link
 
-[Screenshot](./02-Challenge/Develop/assets/images/127.0.0.1_5500_02-Challenge_Develop_index.html.png)
-
 [Website Link](http://127.0.0.1:5501/02-Challenge/Develop/index.html)
+
+![Screenshot](./02-Challenge/Develop/assets/images/127.0.0.1_5500_02-Challenge_Develop_index.html.png)
+
+
