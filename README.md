@@ -1,4 +1,4 @@
-# html_horesion
+# Horesion
 
 ## Description
 
@@ -11,10 +11,7 @@ In this  project, I created nav links to make the website more accessible as wel
 [Github Link](https://github.com/NazKena/html_horesion)
 
 
-[pics](./02-Challenge/Develop/assets/images/127.0.0.1_5500_02-Challenge_Develop_index.html.png)
-
-
-
-
 ## Website Link
+
+[pics](./02-Challenge/Develop/assets/images/127.0.0.1_5500_02-Challenge_Develop_index.html.png)
 
